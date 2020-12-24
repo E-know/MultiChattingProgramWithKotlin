@@ -1,0 +1,1 @@
+class Message(val id: String, val password: String, val msg: String, val type: String)
